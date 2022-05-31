@@ -1,0 +1,8 @@
+__pycache__
+*.pyc
+*.csv
+
+.idea
+google-ads.dev.yaml
+google-ads.test.yaml
+sandbox.py
